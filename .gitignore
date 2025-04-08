@@ -1,0 +1,35 @@
+# Ignora dependências
+node_modules/
+.pnpm/
+dist/
+build/
+.cache/
+.nyc_output/
+
+# Ignora arquivos temporários
+*.log
+*.tmp
+*.temp
+*.swp
+
+# Ignora arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de build do gh-pages
+node_modules/.cache/gh-pages/
+
+# Ignore arquivos gerados por editores
+.vscode/
+.idea/
+
+# Ignore ambiente
+.env
+.env.local
+.env.development
+.env.production
+
+# Evita incluir pacotes travados
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
