@@ -1,5 +1,8 @@
 # My Portfolio
 
+## We visualization
+https://jrteixeira.github.io/curriculo/
+
 ## This repository contains my resume in web page format. Here you will find information about my professional trajectory, experiences, technical skills, certifications, projects and a little more about me. Technologies used: React, Vite, modern CSS and deployment via GitHub Pages.
 
 <br />
