@@ -73,7 +73,7 @@ function Projects() {
               <div className="projects--viewAll">
                 <Link to="/projects">
                   <button className={classes.viewAllBtn}>
-                    View All
+                    Ver todos
                     <HiArrowRight className={classes.viewArr} />
                   </button>
                 </Link>

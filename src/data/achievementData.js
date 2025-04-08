@@ -16,7 +16,7 @@ export const achievementData = {
       title: "Arquitetura Hexagonal e Clean Architecture",
       details: "Estudo sobre padrões de arquitetura escaláveis e manuteníveis.",
       date: "2024",
-      field: "Arquitetura de Software",
+      field: "Arq. de Software",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwTLHsQYQHJ-SRFUeGNoeCUTDndSnj6btdw&s",
     },
@@ -35,7 +35,7 @@ export const achievementData = {
       title: "Arquitetura em camadas e MVC",
       details: "Curso voltado para a organização de projetos utilizando MVC.",
       date: "2024",
-      field: "Arquitetura de Software",
+      field: "Arq. de Software",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwTLHsQYQHJ-SRFUeGNoeCUTDndSnj6btdw&s",
     },
@@ -44,7 +44,7 @@ export const achievementData = {
       title: "Arquitetura e organização de projetos",
       details: "Boas práticas para estruturação de aplicações escaláveis.",
       date: "2024",
-      field: "Engenharia de Software",
+      field: "Eng. de Software",
       image:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGwTLHsQYQHJ-SRFUeGNoeCUTDndSnj6btdw&s",
     },

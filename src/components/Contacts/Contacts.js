@@ -176,7 +176,7 @@ function Contacts() {
                   Nome
                 </label>
                 <input
-                  placeholder="John Doe"
+                  placeholder="Flavio machado"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                   type="text"
@@ -189,7 +189,7 @@ function Contacts() {
                   Email
                 </label>
                 <input
-                  placeholder="John@doe.com"
+                  placeholder="flavio@empresa.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   type="email"
@@ -202,7 +202,7 @@ function Contacts() {
                   Mensagem
                 </label>
                 <textarea
-                  placeholder="Type your message...."
+                  placeholder="Escreva sua mensagem...."
                   value={message}
                   onChange={(e) => setMessage(e.target.value)}
                   type="text"
@@ -213,7 +213,7 @@ function Contacts() {
 
               <div className="submit-btn">
                 <button type="submit" className={classes.submitBtn}>
-                  <p>{!success ? "Send" : "Sent"}</p>
+                  <p>{!success ? "Enviar" : "Enviado"}</p>
                   <div className="submit-icon">
                     <AiOutlineSend
                       className="send-icon"
